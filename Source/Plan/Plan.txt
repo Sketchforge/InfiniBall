@@ -1,0 +1,33 @@
+On First Team, you get to choose a team and get a "Legendary" Player from that team
+
+Start a new team -- Prestige System
+
+You can manage multiple teams at a time which all add together to for your total points
+
+Actual football player names are rare and have special bonuses
+- Hall of Fame
+
+
+**Idle Component**
+
+You manage a set of teams
+
+Each team has a set of 11 players
+
+48/53 players, 12 coaches (1 head, 2 coord, 5 off, 4 def)
+
+Your managed teams scrimage and train against each other, and increase stats the most when they are almost equal. In unequal scenarios, the better team gains mainly just confidence, and the losing team loses minorly on all stats.
+
+Stats: Confidence, Mobility, Trickery, Strength, Riskiness
+
+
+**Users are seperated into Leagues**
+
+During a given season, users choose a team they manage to battle out against other teams in their league
+- The chosen team cannot be used in the idle section of the game when it is actively battling
+
+When the season ends, % at the top of the league gets promoted and % at the bottom of the league gets demoted
+
+Rewards for finishing in top 50%, 25%, 10%, 5%, 1%, 5th, 4th, 3rd, 2nd, 1st
+
+In each team, players age over time and their stats decrease slowly, making sure to balance an OP team from getting to the top and staying there forever
